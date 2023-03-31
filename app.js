@@ -3,7 +3,7 @@ const rezultataPretrage = document.getElementById("rez");
 
 // Promijeniti url -->
 const mainUrl = 'https://akabab.github.io/superhero-api/api/all.json';
-
+// const mainUrl = 'http://berkeley.fh-joanneum.at/webengineering/api/heroes';
 let sviHeroji = [];
 
 const getAllHeroes = (url) => {
